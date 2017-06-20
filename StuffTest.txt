@@ -3,3 +3,8 @@ this is a test
 and more stuff
 
 In new branch
+
+function()
+{
+   console.log('Main Boo')
+}
