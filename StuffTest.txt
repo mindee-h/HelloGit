@@ -7,4 +7,9 @@ In new branch
 function()
 {
    console.log('Main Boo')
+}In new branch
+
+function()
+{
+   console.log('boo')
 }
